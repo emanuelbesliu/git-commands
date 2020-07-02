@@ -1,4 +1,4 @@
- git reset --hard <commit-hash>
+ git reset --hard <>
  
  git push -f origin master
 
