@@ -1,4 +1,4 @@
- git reset --hard <>
+ > git reset --hard <>
  
- git push -f origin master
+ > git push -f origin master
 

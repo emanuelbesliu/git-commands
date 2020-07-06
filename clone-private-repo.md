@@ -1,1 +1,1 @@
-git clone git@github.com:username/repo.git
+> git clone git@github.com:username/repo.git

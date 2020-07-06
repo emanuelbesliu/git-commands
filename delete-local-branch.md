@@ -1,5 +1,5 @@
-git branch -d branch_nam
+> git branch -d branch_nam
 
 OR
 
-git branch -D branch_name
+> git branch -D branch_name
